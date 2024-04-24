@@ -8,7 +8,7 @@ xi = int(x)
 if (x - xi) == 0:
     print(f"{x} is an integer")
 """
-x = input("enter a decimal number"))
+x = int(input("enter a decimal number\n"))
 xi = int(x)
 if (x - xi) == 0:
     print(f"{x} is an integer")
